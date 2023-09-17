@@ -7,3 +7,8 @@ This was coded to practice Rust. And inspired by the suggestion for further proj
 - G - Load the [Gosper Glider](https://conwaylife.com/wiki/Gosper_glider_gun) from a text file
 - C - Create a live cell at the mouse position
 - Numpad Enter - Advance the state of the board
+
+## TODO
+- Implement better controls
+- Allow the board to dynamically resize + pan over the board
+- Add options for screen scaling
